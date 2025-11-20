@@ -61,4 +61,4 @@ O uso combinado do Amazon EC2 e Amazon EC2 Auto Scaling traduz-se diretamente em
 Confiabilidade e Segurança de Dados
 Com a adoção do Amazon S3 para armazenamento de objetos, a Abstergo garante uma durabilidade de dados inigualável para documentos críticos, como receitas digitalizadas e relatórios de vendas. Além disso, o S3 facilita a implementação de uma estratégia de backup de baixo custo.
 
-Em suma, a nova arquitetura fornece uma plataforma altamente disponível e resiliente que permite à Abstergo focar integralmente no seu objetivo principal — a revenda e a logística farmacêutica — enquanto a AWS gerencia a segurança e a infraestrutura subjacente em escala global.
+Em suma, a nova arquitetura fornece uma plataforma altamente disponível e resiliente que permite à Abstergo focar integralmente no seu objetivo principal — a revenda e a logística farmacêutica — enquanto a AWS gerencia a segurança e a infraestrutura subjacente em escala global!
